@@ -42,5 +42,5 @@ python train_fog.py
 ### 4. Test the Artificial Intelligence
 To visually test the model's accuracy on the photos in your `Unseenfog/` folder, run the predictor. A window will pop up showing the images with red/green "FOG DETECTED" labels.
 ```bash
-python predict_unseen_fog.py
+python test_fog.py
 ```
