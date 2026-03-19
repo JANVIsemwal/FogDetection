@@ -1,0 +1,14 @@
+# Datasets and Images
+FogDataset/
+Unseenfog/
+LandslideDataset_HD/
+
+# Models
+*.keras
+*.h5
+*.tflite
+*.onnx
+
+# Python caches
+__pycache__/
+*.pyc
